@@ -21,6 +21,17 @@ section
     font-family:muli;
 }
 
+.topnav
+{
+	margin:0;
+   padding:0;
+   padding-top:20px;
+   padding-bottom:20px;
+   overflow:hidden;
+   background-color:DarkSlateGray;
+   text-align:center;
+}
+
 /* Background image by Dose Media, uploaded on Unsplash. Link to image: https://unsplash.com/photos/bU6JyhSI6zo */
 header
 {
@@ -81,17 +92,7 @@ p
 {
   margin-left:2vw;
 }
-.menuul
-{
-   list-style-type: none;
-   margin:0;
-   padding:0;
-   padding-top:20px;
-   padding-bottom:20px;
-   overflow:hidden;
-   background-color:DarkSlateGray;
-   text-align:center;
-}
+
 .menuli
 {
   display:inline;
